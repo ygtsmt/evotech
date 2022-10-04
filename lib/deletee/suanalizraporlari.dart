@@ -1,5 +1,5 @@
-import 'package:flutter_application_3/amasya/model/raporlarmodel.dart';
-import 'package:flutter_application_3/amasya/suanalizpdfview.dart';
+import 'package:flutter_application_3/deletee/model/raporlarmodel.dart';
+import 'package:flutter_application_3/deletee/suanalizpdfview.dart';
 import 'package:flutter/material.dart';
 import 'package:dio/dio.dart';
 import 'dart:async';

@@ -1,6 +1,6 @@
-import 'package:flutter_application_3/amasya/hizmetlerbutonlari/evlendirmehizmetleri.dart';
-import 'package:flutter_application_3/amasya/hizmetlerbutonlari/isyeriruhsati.dart';
-import 'package:flutter_application_3/amasya/hizmetlerbutonlari/suaboneligi.dart';
+import 'package:flutter_application_3/deletee/hizmetlerbutonlari/evlendirmehizmetleri.dart';
+import 'package:flutter_application_3/deletee/hizmetlerbutonlari/isyeriruhsati.dart';
+import 'package:flutter_application_3/deletee/hizmetlerbutonlari/suaboneligi.dart';
 import 'package:flutter_application_3/sabitler.dart';
 import 'package:flutter/material.dart';
 

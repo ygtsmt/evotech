@@ -1,8 +1,8 @@
 import 'package:community_material_icon/community_material_icon.dart';
-import 'package:flutter_application_3/amasya/muzelerimiz.dart';
 import 'package:flutter_application_3/anasayfa_icerikler.dart';
 import 'package:flutter_application_3/iletisim.dart';
 import 'package:flutter/material.dart';
+import 'deletee/muzelerimiz.dart';
 import 'sabitler.dart';
 
 class YeniAnaSayfa extends StatefulWidget {

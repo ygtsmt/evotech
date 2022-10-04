@@ -1,7 +1,9 @@
-import 'package:flutter_application_3/amasya/model/haberler_model.dart';
+
 import 'package:flutter/material.dart';
 import 'package:dio/dio.dart';
 import 'dart:async';
+
+import 'model/haberler_model.dart';
 // HABER GORSELLERINI CEKEMIYORUM VE TÜRKÇE KARAKTER SORUNU YAŞIYORUM UTF-8 BASKA SORUN YOK.
 
 class Haberler extends StatefulWidget {

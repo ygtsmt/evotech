@@ -1,5 +1,5 @@
 import 'dart:async';
-import 'package:flutter_application_3/amasya/muzelerimiz.dart';
+import 'package:flutter_application_3/deletee/muzelerimiz.dart';
 import 'package:flutter/material.dart';
 
 class KentBilgisi extends StatefulWidget {

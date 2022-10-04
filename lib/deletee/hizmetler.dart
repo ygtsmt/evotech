@@ -1,9 +1,9 @@
-import 'package:flutter_application_3/amasya/hizmetlerbutonlari/evlendirmehizmetleri.dart';
-import 'package:flutter_application_3/amasya/hizmetlerbutonlari/isyeriruhsati.dart';
-import 'package:flutter_application_3/amasya/hizmetlerbutonlari/cenazehizmetleri.dart';
-import 'package:flutter_application_3/amasya/hizmetlerbutonlari/suaboneligi.dart';
-import 'package:flutter_application_3/amasya/hizmetlerbutonlari/temizlikhizmeti.dart';
-import 'package:flutter_application_3/amasya/hizmetlerbutonlari/yapiruhsat.dart';
+import 'package:flutter_application_3/deletee/hizmetlerbutonlari/evlendirmehizmetleri.dart';
+import 'package:flutter_application_3/deletee/hizmetlerbutonlari/isyeriruhsati.dart';
+import 'package:flutter_application_3/deletee/hizmetlerbutonlari/cenazehizmetleri.dart';
+import 'package:flutter_application_3/deletee/hizmetlerbutonlari/suaboneligi.dart';
+import 'package:flutter_application_3/deletee/hizmetlerbutonlari/temizlikhizmeti.dart';
+import 'package:flutter_application_3/deletee/hizmetlerbutonlari/yapiruhsat.dart';
 
 import 'package:flutter/material.dart';
 
