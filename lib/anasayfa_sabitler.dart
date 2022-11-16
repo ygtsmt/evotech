@@ -2,7 +2,6 @@ import 'package:community_material_icon/community_material_icon.dart';
 import 'package:flutter_application_3/anasayfa_icerikler.dart';
 import 'package:flutter_application_3/iletisim.dart';
 import 'package:flutter/material.dart';
-import 'deletee/muzelerimiz.dart';
 import 'sabitler.dart';
 
 class YeniAnaSayfa extends StatefulWidget {
@@ -18,7 +17,7 @@ class _YeniAnaSayfaState extends State<YeniAnaSayfa> {
   static final List _widgetOptions = [
    GecirSayfasi(),
     Iletisim(),
-    Muzelerimiz()
+    Iletisim()
   ];
   void _onItemTapped(int index) {
     setState(() {
